@@ -26,7 +26,7 @@ Here are the detailed documents created during the testing process:
 | Document | Description | Format |
 | :--- | :--- | :--- |
 | **[📂 Test Cases](./TestCases_SwagLabs.xlsx)** | Contains **9+ Test Cases** covering Happy Path and Negative Scenarios. | Excel |
-| **[🐞 Bug Report](./BugReport_SwagLabs.xlsx)** | Detailed bug report for the "Product Image" issue found on `problem_user`. | Excel |
+| **[🐞 Bug Report](./BugReport_SwagLabs.pdf)** | Detailed bug report for the "Product Image" issue found on `problem_user`. | Excel |
 | **[📜 SQL Verification](./DB_Scripts.sql)** | Simulated SQL queries designed to verify data integrity in the backend. | SQL File |
 
 *(Note: Please click the links above to view the files)*
